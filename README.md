@@ -4,7 +4,7 @@
 I'm a passionate Full Stack developer with experience in building web and mobile applications. I specialize in JavaScript and have expertise in the following technologies:
 
 - 🏔️ Frontend: React, React Native, TypeScript, JavaScript
-- 🧑‍💻 Backend: Express, Node.js, PHP
+- 🧑‍💻 Backend: Express, Node.js, PHP, SQL
 - 🌐 Databases: MongoDB, MySQL, Firebase, Mongoose ODM
 - 👾 Other Tech: REST, Bootstrap, Python, HTML5 Canvas, and currently learning aws and C++
 
