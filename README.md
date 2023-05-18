@@ -15,8 +15,8 @@ Here are some notable projects I've worked on:
    - Description: Utah Skate Spots. Are you sick of skating around Utah not knowing where your buddy posted that video where he did that sick 5-0 on that almost to good to be true ledge? Well UTSkateSpots could potentially save your local skate scene. NEVER GATEKEEP SPOTS.
    - -Sub-Description: CRUD & Auth with DB Application and other APIs(GeoCooding, Maps, File Pickers etc..) implemented for a fun proactive user experience.
    - Technologies Used: React, Express, MongoDB, Mongoose
-   - GitHub Repository: [Repository Link](https://github.com/Anthony-eng21/MERN-PROJ)
-   - GitHub Repository: [Repository Link](https://github.com/Anthony-eng21/MERN-PROJ-REST-API)
+   - GitHub Repository: [Repository Link Frontend](https://github.com/Anthony-eng21/MERN-PROJ)
+   - GitHub Repository: [Repository Link REST API](https://github.com/Anthony-eng21/MERN-PROJ-REST-API)
 
 2. 🤖Haileys Bot🤖
    - Description: Chat Bot made and named after Hailey 🎉. Personally I used to use it all the time. Used an old ChatGPT rest endpoint and free OpenAI dev account for an API key.
