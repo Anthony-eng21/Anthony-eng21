@@ -5,7 +5,7 @@ I'm a passionate Full Stack developer with experience in building web and mobile
 
 - 🏔️ Frontend: React, React Native, TypeScript, JavaScript
 - 🧑‍💻 Backend: Express, Node.js, PHP
-- 🌐 Databases: MongoDB, MySQL, SQL
+- 🌐 Databases: MongoDB, MySQL, Firebase
 - 👾 Other Tech: REST, Bootstrap, Python, HTML5 Canvas, and currently learning C++ .
 
 ## Projects 🧑‍💻
