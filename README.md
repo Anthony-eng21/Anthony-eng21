@@ -12,19 +12,19 @@ I'm a passionate Full Stack developer with experience in building web and mobile
 Here are some notable projects I've worked on:
 
 1. 🛹UTSkateSpots💣
-   - Description: Utah Skate Spots. Are you sick of skating around Utah not knowing where your buddy posted that video where your he did that sick 5-0 on that ledge? Well UTSkateSpots could potentially save your local skate scene. NEVER GATEKEEP SPOTS.
+   - Description: Utah Skate Spots. Are you sick of skating around Utah not knowing where your buddy posted that video where he did that sick 5-0 on that almost to good to be true ledge? Well UTSkateSpots could potentially save your local skate scene. NEVER GATEKEEP SPOTS.
    - -Sub-Description: CRUD & Auth with DB Application and other APIs(GeoCooding, Maps, File Pickers etc..) implemented for a fun proactive user experience.
    - Technologies Used: React, Express, MongoDB, Mongoose
    - GitHub Repository: [Repository Link](https://github.com/Anthony-eng21/MERN-PROJ)
    - GitHub Repository: [Repository Link](https://github.com/Anthony-eng21/MERN-PROJ-REST-API)
 
 2. 🤖Haileys Bot🤖
-   - Description: Chat Bot made and named after my girlfriend. Personally I used to use it all the time. Used an old ChatGPT rest endpoint. //ChatGPT Component. 
+   - Description: Chat Bot made and named after Hailey 🎉. Personally I used to use it all the time. Used an old ChatGPT rest endpoint and free OpenAI dev account for an API key.
    - Technologies Used: React Native, OpenAI's ChatGPT API, and Expo
    - Deployment Site: [Haileys-Bot](https://expo.dev/@awoodworth554/haileys-bot)
 
 3. 🐘PHP🐘 Chain Gang OOP_DB
-   - Description: Bicycle Website. Using the popular Active Record Design Pattern. Super fun project definitely more comfortable in this design pattern now.
+   - Description: Bicycle Website Using the popular Active Record Design Pattern. Super fun project definitely more comfortable in this design pattern now, definitely using it again.
    - Technologies Used: HTML, CSS, PHP, and MySQL
    - GitHub Repository: [Repository Link](https://github.com/Anthony-eng21/PHP_OOP_DB)
 
