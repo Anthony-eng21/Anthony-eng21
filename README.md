@@ -5,7 +5,7 @@ I'm a passionate Full Stack developer with experience in building web and mobile
 
 - 🏔️ Frontend: React, React Native, TypeScript, JavaScript
 - 🧑‍💻 Backend: Express, Node.js, PHP
-- 🌐 Databases: MongoDB, MySQL, Firebase
+- 🌐 Databases: MongoDB, MySQL, Firebase, Mongoose ODM
 - 👾 Other Tech: REST, Bootstrap, Python, HTML5 Canvas, and currently learning aws and C++
 
 ## Projects 🧑‍💻
@@ -14,7 +14,7 @@ Here are some notable projects I've worked on:
 1. 🛹UTSkateSpots💣
    - Description: Utah Skate Spots. Are you sick of skating around Utah not knowing where your buddy posted that video where he did that sick 5-0 on that almost to good to be true ledge? Well UTSkateSpots could potentially save your local skate scene. NEVER GATEKEEP SPOTS.
    - -Sub-Description: CRUD & Auth with DB Application and other APIs(GeoCooding, Maps, File Pickers etc..) implemented for a fun proactive user experience.
-   - Technologies Used: React, Express, MongoDB, Mongoose
+   - Technologies Used: React, Express, MongoDB, Mongoose.
    - GitHub Repository: [Repository Link Frontend](https://github.com/Anthony-eng21/MERN-PROJ)
    - GitHub Repository: [Repository Link REST API](https://github.com/Anthony-eng21/MERN-PROJ-REST-API)
 
@@ -25,7 +25,7 @@ Here are some notable projects I've worked on:
 
 3. 🐘PHP🐘 Chain Gang OOP_DB
    - Description: Bicycle Website Using the popular Active Record Design Pattern. Super fun project definitely more comfortable in this design pattern now, definitely using it again.
-   - Technologies Used: HTML, CSS, PHP, and MySQL
+   - Technologies Used: HTML, CSS, PHP, SQL and MySQL
    - GitHub Repository: [Repository Link](https://github.com/Anthony-eng21/PHP_OOP_DB)
 
 ## 🤙Contact Me
