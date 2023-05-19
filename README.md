@@ -31,8 +31,8 @@ Here are some notable projects I've worked on:
 ## 🤙Contact Me
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect. You can find me on the following platforms:
 
-- Email: [MY 📨](mailto:awoodworth554@gmail.com)
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/anthony-woodworth-532435261)
-- Portfolio Website: [React/Bootstrap Portfolio](https://personalportfolio-brown-two.vercel.app/)
+- Email: [Mail🖥️📨](mailto:awoodworth554@gmail.com)
+- LinkedIn: [Tony's LinkedIn](https://www.linkedin.com/in/anthony-woodworth-532435261)
+- Portfolio Website: [Tony's Portfolio](https://personalportfolio-brown-two.vercel.app/)
 
 🎉I'm always open to new projects and challenges, so let's connect and create something amazing together!🎉
