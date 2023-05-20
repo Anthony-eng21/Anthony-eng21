@@ -22,6 +22,7 @@ Here are some notable projects I've worked on:
    - Description: Chat Bot made and named after Hailey 🎉. Personally used to use it all the time. Used an old ChatGPT rest endpoint and free OpenAI dev account for an API key.
    - Technologies Used: React Native, OpenAI's ChatGPT API, and Expo
    - Deployment Site: [Haileys-Bot](https://expo.dev/@awoodworth554/haileys-bot)
+   - GitHub Repository: [Repository Link](https://github.com/Anthony-eng21/Tony-s-chatbot)
 
 3. 🐘PHP🐘 Chain Gang OOP_DB
    - Description: Bicycle Website Using the popular Active Record Design Pattern. Super fun project definitely more comfortable in this design pattern now, definitely using it again.
