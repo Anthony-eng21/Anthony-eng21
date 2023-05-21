@@ -1,7 +1,7 @@
 # Hello World🌐! 👋I'm Tony Woodworth👋
 
 ## 💣About Me💣
-I'm a passionate Full Stack developer with experience in building web and mobile applications. I specialize in JavaScript and have expertise in the following technologies:
+I'm a passionate **Full Stack developer** with experience in building web and mobile applications. I specialize in JavaScript and have expertise in the following technologies:
 
 - 🏔️ Frontend: React, React Native, TypeScript, JavaScript
 - 🧑‍💻 Backend: Express, Node.js, PHP, SQL
