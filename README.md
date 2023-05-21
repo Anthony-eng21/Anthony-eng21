@@ -1,13 +1,5 @@
 # Hello World🌐! 👋I'm Tony Woodworth👋
 
-## 💣About Me💣
-I'm a passionate **Full Stack developer** with experience in building web and mobile applications. I specialize in JavaScript and have expertise in the following technologies:
-
-- 🏔️ **Frontend**: React, React Native, TypeScript, JavaScript
-- 🧑‍💻 **Backend**: Express, Node.js, PHP, SQL
-- 🌐 **Database Tech**: MongoDB, MySQL, Firebase, Mongoose ODM
-- 👾 **Other Tech/Languages**: NPM, Composer, ExpoCLI, Bootstrap, Python, HTML5 Canvas; currently learning AWS and C++
-
 ## **Projects** 🧑‍💻
 Here are some notable projects I've worked on:
 
@@ -29,11 +21,27 @@ Here are some notable projects I've worked on:
    - **Technologies Used: HTML, CSS, PHP, SQL and MySQL**
    - GitHub Repository: [Repository Link](https://github.com/Anthony-eng21/PHP_OOP_DB)
 
-## 🤙Contact Me
-Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect. You can find me on the following platforms:
+## About Me
 
-- **Email**: [Mail🖥️📨](mailto:awoodworth554@gmail.com)
-- **LinkedIn**: [Tony's LinkedIn](https://www.linkedin.com/in/anthony-woodworth-532435261)
-- **Portfolio Website**: [Tony's Portfolio](https://personalportfolio-brown-two.vercel.app/)
+Welcome! I'm Tony Woodworth, a passionate **Full Stack developer** with a track record of building exceptional web and mobile applications. I bring over a year and a half of coding experience and specialize in JavaScript, TypeScript, PHP, and SQL. I have extensive expertise in the following technologies:
 
-🎉I'm always open to new projects and challenges, so let's connect and create something amazing together!🎉
+- 🏔️ **Frontend Development**: I excel in creating captivating user interfaces and interactive experiences using cutting-edge technologies such as React, React Native, TypeScript, and JavaScript. I strive to deliver seamless and intuitive user interfaces that enhance the overall user experience.
+
+- 🧑‍💻 **Backend Development**: With proficiency in Express, Node.js, PHP, SQL, and pug templates, I have a strong foundation in backend development. I build robust and scalable server-side solutions, ensuring efficient data processing, secure authentication, and seamless integration with frontend applications.
+
+- 🌐 **Database Technologies**: I have a deep understanding of database technologies such as MongoDB, MySQL, Firebase, and Mongoose ODM. Leveraging my expertise, I design efficient database structures, implement optimized queries, and ensure data integrity and security.
+
+- 👾 **Other Tech/Languages**: In addition to my core skills, I am well-versed in utilizing NPM and Composer for package management, ExpoCLI for mobile application development, and Bootstrap for responsive web design. I also have experience with Python and HTML5 Canvas, allowing me to tackle diverse project requirements. Currently, I am expanding my knowledge by delving into AWS and C++, broadening my skill set even further.
+
+I thrive on tackling complex challenges and collaborating with teams to bring ideas to life. I possess a keen eye for detail, a strong problem-solving mindset, and a commitment to delivering high-quality code that aligns with industry best practices. My dedication to continuous learning ensures that I stay up-to-date with the latest technologies and trends in the ever-evolving field of software development.
+
+Let's connect and create something extraordinary together!
+
+Feel free to **reach out to me** through the following platforms:
+
+- 📧 **Email:** [awoodworth554@gmail.com](mailto:awoodworth554@gmail.com)
+- 🌐 **LinkedIn:** [Tony's LinkedIn](https://www.linkedin.com/in/anthony-woodworth-532435261)
+- 🌍 **Portfolio Website:** [Tony's Portfolio](https://personalportfolio-brown-two.vercel.app/)
+
+I'm excited to take on new projects and challenges, so let's collaborate and make a positive impact together!
+
