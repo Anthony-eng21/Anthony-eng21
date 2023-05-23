@@ -40,8 +40,8 @@ Let's connect and create something extraordinary together!
 Feel free to **reach out to me** through the following platforms:
 
 - 📧 **Email:** [awoodworth554@gmail.com](mailto:awoodworth554@gmail.com)
-- 🌐 **LinkedIn:** [Tony's LinkedIn](https://www.linkedin.com/in/anthony-woodworth-532435261)
-- 🌍 **Portfolio Website:** [Tony's Portfolio](https://personalportfolio-brown-two.vercel.app/)
+- 🌐 **LinkedIn:** [Account](https://www.linkedin.com/in/anthony-woodworth-532435261)
+- 🌍 **Portfolio Website:** [Projects & Me](https://personalportfolio-brown-two.vercel.app/)
 
 I'm excited to take on new projects and challenges, so let's collaborate and make a positive impact together!
 
