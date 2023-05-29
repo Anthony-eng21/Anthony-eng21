@@ -5,7 +5,7 @@ Here are some notable projects I've worked on:
 
 1. 🛹**UTSkateSpots**💣
    - User Description: Utah Skate Spots. Are you sick of skating around Utah not knowing where your buddy posted that video where he did that sick 5-0 on that almost to good to be true ledge? Well UTSkateSpots could potentially save your local skate scene. NEVER GATEKEEP SPOTS.
-   - Tech Description: CRUD & Auth with DB Application and other APIs(GeoCooding, Maps, File Pickers etc..) implemented for a smooth proactive user experience.
+   - Tech Description: CRUD & Auth with DB Application and other APIs(GeoCooding, Maps, File Pickers etc..) implemented for a smooth proactive user experience (anyone can deploy as theirs!).
    - **Technologies Used: React, Express, MongoDB, Mongoose.**
    - GitHub Repository: [Repository Link Frontend](https://github.com/Anthony-eng21/MERN-PROJ)
    - GitHub Repository: [Repository Link REST API](https://github.com/Anthony-eng21/MERN-PROJ-REST-API)
