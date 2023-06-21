@@ -11,7 +11,7 @@ Here are some notable projects I've worked on:
    - GitHub Repository: [REST API Repo](https://github.com/Anthony-eng21/MERN-PROJ-REST-API)
 
 2. 🤖**Haileys Bot**🤖
-   - Description: Chat Bot made and named after Hailey 🎉. Personally used to use it all the time. Used an old ChatGPT rest endpoint and free OpenAI dev account for an API key.
+   - Description: Chat Bot made and named after Hailey 🎉 (my girlfriend). I used an OpenAI GPT API for this project, it was very clear how to implement thanks to their docs.
    - **Technologies Used: React Native, GPT OpenAPI, and Expo**
    - Deployment Site: [Haileys-Bot](https://expo.dev/@awoodworth554/haileys-bot)
    - GitHub Repository: [Repository Link](https://github.com/Anthony-eng21/Tony-s-chatbot)
