@@ -20,6 +20,7 @@ Here are some notable projects I've worked on:
    - Description: Welcome to RapNow!, where you can unleash your creativity and improve your rap skills! Whether you're a seasoned rapper or just starting out, our app provides a platform for you to practice and enhance your freestyle abilities.
    - **Technologies Used: React Native, Expo AV, it's an ongoing project more here later.**
    - Deployment Site: [RapNow!](https://expo.dev/@awoodworth554/rapnow?serviceType=classic&distribution=expo-go)
+   - Github Repository: [Repository Link](https://github.com/Anthony-eng21/RapNowv1)
 
 ## About Me
 
