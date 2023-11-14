@@ -45,4 +45,3 @@ Feel free to **reach out to me** through the following platforms:
 - 🌍 **Portfolio Website:** [Projects & Me](https://personalportfolio-brown-two.vercel.app/)
 
 I'm excited to take on new projects and challenges, so let's collaborate and make a positive impact together!
-http://kelvinf14.sg-host.com/
