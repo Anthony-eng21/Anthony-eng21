@@ -24,7 +24,7 @@ Here are some notable projects I've worked on:
 
 ## About Me
 
-Hello World 🌐 I'm Tony Woodworth. A passionate **Full Stack developer** with a track record of building exceptional web and mobile applications. I specialize in JavaScript, JavaScript-libraries, TypeScript, PHP, and SQL. I have extensive expertise in the following technologies and languages:
+Hello World 🌐 I'm Anthony Woodworth. A passionate **Full Stack developer** with a track record of building exceptional web and mobile applications. I specialize in JavaScript, JavaScript-libraries, TypeScript, PHP, and SQL. I have extensive expertise in the following technologies and languages:
 
 - 🏔️ **Frontend Development**: I excel in creating captivating user interfaces and interactive experiences using cutting-edge technologies such as React, React Native, TypeScript, and JavaScript. I strive to deliver seamless and intuitive user interfaces that enhance the overall user experience.
 
