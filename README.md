@@ -1,4 +1,4 @@
-# Hello World🌐! 👋I'm R. Anthony Woodworth👋
+# Hello👋 I'm R. Anthony Woodworth
 
 ## **Projects** 🧑‍💻
 Here are some notable projects I've worked on:
