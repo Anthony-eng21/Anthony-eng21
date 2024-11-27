@@ -1,27 +1,3 @@
-# Hello👋 I'm R. Anthony Woodworth
-
-## **Projects** 🧑‍💻
-Here are some notable projects I've worked on:
-
- 🛹**UTSkateSpots**💣
-   - User Description: Utah Skate Spots. Are you sick of skating around Utah not knowing where your buddy posted that video where he did that sick 5-0 on that almost to good to be true ledge? Well UTSkateSpots could potentially save your local skate scene. NEVER GATEKEEP SPOTS.
-   - Tech Description: CRUD & Auth with DB Application and other APIs(GeoCooding, Maps, File Pickers etc..) implemented for a smooth proactive user experience (anyone can deploy as theirs!).
-   - **Technologies Used: React, Express, MongoDB, Mongoose.**
-   - GitHub Repository: [Frontend Repo](https://github.com/Anthony-eng21/MERN-PROJ)
-   - GitHub Repository: [REST API Repo](https://github.com/Anthony-eng21/MERN-PROJ-REST-API)
-
- 🤖**Haileys Bot**🤖
-   - Description: Chat Bot made and named after Hailey 🎉 (my girlfriend). I used an OpenAI GPT API for this project, it was very clear how to implement thanks to their docs.
-   - **Technologies Used: React Native, GPT OpenAPI, and Expo**
-   - Deployment Site: [Haileys-Bot](https://expo.dev/@awoodworth554/haileys-bot)
-   - GitHub Repository: [Repository Link](https://github.com/Anthony-eng21/Tony-s-chatbot)
-
- **RapNow!🎙️🎵**
-   - Description: Welcome to RapNow!, where you can unleash your creativity and improve your rap skills! Whether you're a seasoned rapper or just starting out, our app provides a platform for you to practice and enhance your freestyle abilities.
-   - **Technologies Used: React Native, Expo AV, it's an ongoing project more here later.**
-   - Deployment Site: [RapNow!](https://expo.dev/@awoodworth554/rapnow?serviceType=classic&distribution=expo-go)
-   - Github Repository: [Repository Link](https://github.com/Anthony-eng21/RapNowv1)
-
 ## About Me
 
 Hello World 🌐 I'm Anthony Woodworth. A passionate **Full Stack developer** with a track record of building exceptional web and mobile applications. I specialize in JavaScript, JavaScript-libraries, TypeScript, PHP, and SQL. I have quite a bit of experience in the following technologies and languages:
