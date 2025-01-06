@@ -13,7 +13,7 @@ I thrive on tackling complex challenges and collaborating with teams to bring id
 
 
 #### Other stuff I'm interested in and want to learn more about:
-[![shit i wanna learn](https://skillicons.dev/icons?i=python,cpp,fastapi,gcp,aws,redis,linux,laravel,threejs,blender,unreal,tensorflow)](https://skillicons.dev)
+[![shit i wanna learn](https://skillicons.dev/icons?i=python,cpp,fastapi,gcp,aws,redis,webpack,linux,laravel,threejs,blender,unreal,tensorflow&perline=7)](https://skillicons.dev)
 
 Let's connect and create something extraordinary together!
 
