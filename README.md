@@ -1,4 +1,4 @@
-## HEY YOU 🫵
+## HEY  🫵
 I specialize in Web & Mobile Full-Stack Development.
 
 
