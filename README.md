@@ -9,8 +9,8 @@ I thrive on tackling complex challenges and collaborating with teams to bring id
 [![Backend](https://skillicons.dev/icons?i=php,nodejs,laravel,express,postman,mongodb,mysql,cloudflare,firebase,aws&perline=5)](https://skillicons.dev)
 
 
-#### Other stuff I'm interested in and want to learn more about:
-[![shit i wanna learn](https://skillicons.dev/icons?i=python,cpp,laravel,fastapi,gcp,aws,redis,tensorflow,linux,threejs,blender,unreal&perline=6)](https://skillicons.dev)
+<!--#### Other stuff I'm interested in and want to learn more about:
+[![shit i wanna learn](https://skillicons.dev/icons?i=python,cpp,laravel,fastapi,gcp,aws,redis,tensorflow,linux,threejs,blender,unreal&perline=6)](https://skillicons.dev)-->
 
 Let's connect and create something extraordinary together!
 
