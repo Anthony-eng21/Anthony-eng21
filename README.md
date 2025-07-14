@@ -1,6 +1,8 @@
 
 🌎🗑️🔥
 
+minimize, starve the machine!
+
 - 🌐 **[LinkedIn](https://www.linkedin.com/in/anthony-woodworth-532435261)**
 
 ![monahifive](/assets/mona-hifive.gif)
