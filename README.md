@@ -1,7 +1,7 @@
 
 🌎🗑️🔥
 
-minimize, starve the machine!
+consumer
 
 - 🌐 **[LinkedIn](https://www.linkedin.com/in/anthony-woodworth-532435261)**
 
