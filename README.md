@@ -1,6 +1,5 @@
 
 🌎🗑️🔥\
-RIP George Carlin
 - 🌐 **[LinkedIn](https://www.linkedin.com/in/anthony-woodworth-532435261)**
 
-![monahifive](/assets/mona-hifive.gif)
+![heart_pirate_jolly_roger](/assets/heart_pirate.svg)
